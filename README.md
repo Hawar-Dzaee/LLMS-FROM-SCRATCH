@@ -12,7 +12,7 @@ This repository contains implementations of GPT-2 style models at different abst
 
 ## 🔍 Detailed Overview
 
-### Models/
+### Models
 Contains two different implementations of GPT-2 style architecture:
 
 1. **Model_level_0.ipynb**
@@ -26,13 +26,13 @@ Contains two different implementations of GPT-2 style architecture:
    - Uses `nn.MultiheadAttention` instead of custom implementation
    - 📌 *Recommended for practical applications*
 
-### Takeaways_from_each_chapters/
+### Takeaways_from_each_chapters
 - Comprehensive notes from Sebastian Raschka's book
 - Chapter-wise breakdown of key concepts
 - Combined knowledge leads to understanding the complete model
 - 📚 *Serves as theoretical foundation for the implementations*
 
-### reproducing pytorch's functionality/
+### reproducing pytorch's functionality
 - Contains validation experiments
 - Focuses on `nn.MultiheadAttention` reproduction
 - Includes result comparison between custom and PyTorch implementations
