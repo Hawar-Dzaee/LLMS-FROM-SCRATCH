@@ -55,7 +55,7 @@ Consider adding:
 - Example outputs and use cases
 
 ## 🔗 References
-- [Sebastian Raschka's "Build a Large Language Model (From Scratch)"](https://www.manning.com/books/build-a-large-language-model-from-scratch#reviews)
+- [Sebastian Raschka's "Build a Large Language Model (From Scratch)"](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 - [PyTorch Documentation nn.MultiheadAttention](https://pytorch.org/docs/stable/generated/torch.nn.MultiheadAttention.html)
 
 
