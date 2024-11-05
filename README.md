@@ -1,6 +1,9 @@
 # 🤖 GPT-2 Style Model Implementation & Learning Resources 
 
-This repository contains implementations of GPT-2 style models at different abstraction levels, along with detailed learning resources and validation experiments.
+
+This repository contains implementations of GPT-2 style models (mostly influenced by Sebastian Raschka's book **Build a Large Language Model (From Scratch)**) at different abstraction levels, along with detailed learning resources and validation experiments.
+
+![Alt text](<Screen Shot 2024-11-05 at 1.31.53 PM.png>)
 
 ## 📁 Repository Structure
 
@@ -55,8 +58,8 @@ Consider adding:
 - Example outputs and use cases
 
 ## 🔗 References
-- [Sebastian Raschka's "Build a Large Language Model (From Scratch)"](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-- [PyTorch Documentation nn.MultiheadAttention](https://pytorch.org/docs/stable/generated/torch.nn.MultiheadAttention.html)
+- Sebastian Raschka's [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- PyTorch Documentation [nn.MultiheadAttention](https://pytorch.org/docs/stable/generated/torch.nn.MultiheadAttention.html)
 
 
 ## 📝 Notes
