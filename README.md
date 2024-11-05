@@ -55,10 +55,9 @@ Consider adding:
 - Example outputs and use cases
 
 ## 🔗 References
+- [Sebastian Raschka's "Build a Large Language Model (From Scratch)"](https://www.manning.com/books/build-a-large-language-model-from-scratch#reviews)
+- [PyTorch Documentation nn.MultiheadAttention](https://pytorch.org/docs/stable/generated/torch.nn.MultiheadAttention.html)
 
-- Sebastian Raschka's "Build a Large Language Model (From Scratch)"
-- PyTorch Documentation
-- [Add any additional references used]
 
 ## 📝 Notes
 
@@ -66,4 +65,3 @@ Consider adding:
 - Implementations follow the GPT-2 architecture style
 - Code includes detailed comments and explanations
 
-[Consider adding badges for Python version, PyTorch version, license, etc.]
